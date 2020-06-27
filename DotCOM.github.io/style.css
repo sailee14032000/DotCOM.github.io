@@ -245,7 +245,7 @@ body{
 		}	
     	#map_and_image{
     		flex-direction: column;
-    		width: 80vw;
+    		width: 85vw;
     		margin: 15% auto;
     		max-height: none;
     		min-height: 80vh;
