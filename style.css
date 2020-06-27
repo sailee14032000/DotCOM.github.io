@@ -244,26 +244,24 @@ body{
 		}	
     	#map_and_image{
     		flex-direction: column;
-    		width: 95vw;
+    		width: 80vw;
     		margin: 15% auto;
     		max-height: none;
-    		min-height: 150vh;
+    		min-height: 80vh;
     	}
     	#heremap{
     		width: 100%;
-    		height:80vh; 
+    		height:100%; 
     	}
     	#right_img{
-    		width: 100%;
-    		height: 60vh;
+    		display:none;
 
     	}
     	.caption{
-    		width: 90vw;
+    		width: 80vw;
     	}
     	#right_img img{
-    		width: 100%;
-    		height: 100%;
+    		display:none;
     	}
     	th td{
 			font-size: 14px;
@@ -279,7 +277,7 @@ body{
 			display: block;
 		}
 		.piechart,.linechart{
-			width: 90vw;
+			width: 80vw;
 			
 			margin-bottom: 20%;
 			padding:20px 10px;
@@ -291,7 +289,7 @@ body{
 			height: 350px;
 		}
 		.world , .india{
-			width: 90vw;
+			width: 80vw;
 		}
 		
     }	
