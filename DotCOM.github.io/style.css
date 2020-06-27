@@ -240,7 +240,8 @@ body{
     	}
     	#toggle:checked + .sidenav{display:block;}
     	.container{
-			width: 100vw;
+		background-image:none;	
+		width: 100vw;
 		}	
     	#map_and_image{
     		flex-direction: column;
