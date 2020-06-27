@@ -30,6 +30,9 @@ body{
 
 		position: fixed;
 	}
+        #right_img_notice{
+        display:none;
+        }
 	.sidenav a{
 		display: block;
 		text-decoration: none;
