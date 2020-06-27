@@ -1,0 +1,1874 @@
+[
+  {
+    "Continent": "United States",
+    "Facebook": 55.89,
+    "Pinterest": 29.86,
+    "Twitter": 9.01,
+    "YouTube": 1.82,
+    "Instagram": 1.41
+  },
+  {
+    "Continent": "India",
+    "Facebook": 90.06,
+    "Pinterest": 2.9,
+    "Twitter": 1.28,
+    "YouTube": 3.18,
+    "Instagram": 2.34
+  },
+  {
+    "Continent": "México",
+    "Facebook": 82.97,
+    "Pinterest": 4.12,
+    "Twitter": 6.8,
+    "YouTube": 5.63,
+    "Instagram": 0
+  },
+  {
+    "Continent": "España",
+    "Facebook": 87.49,
+    "Pinterest": 4.62,
+    "Twitter": 3.2,
+    "YouTube": 1.91,
+    "Instagram": 2.2
+  },
+  {
+    "Continent": "Pakistan",
+    "Facebook": 93.24,
+    "Pinterest": 1.12,
+    "Twitter": 4.23,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Argentina",
+    "Facebook": 86.03,
+    "Pinterest": 4.4,
+    "Twitter": 1.27,
+    "YouTube": 5.7,
+    "Instagram": 2.36
+  },
+  {
+    "Continent": "Bosnia and Herzegovina",
+    "Facebook": 98.97,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Philippines",
+    "Facebook": 90.52,
+    "Pinterest": 1.83,
+    "Twitter": 4.3,
+    "YouTube": 2.05,
+    "Instagram": 0
+  },
+  {
+    "Continent": "România",
+    "Facebook": 95.24,
+    "Pinterest": 2.71,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "United Kingdom",
+    "Facebook": 60.3,
+    "Pinterest": 15.35,
+    "Twitter": 17.47,
+    "YouTube": 2.52,
+    "Instagram": 1.77
+  },
+  {
+    "Continent": "السعودية",
+    "Facebook": 79.79,
+    "Pinterest": 1.47,
+    "Twitter": 9.35,
+    "YouTube": 8.44,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Canada",
+    "Facebook": 60.92,
+    "Pinterest": 25.5,
+    "Twitter": 7.33,
+    "YouTube": 2.11,
+    "Instagram": 1.27
+  },
+  {
+    "Continent": "Brasil",
+    "Facebook": 63.05,
+    "Pinterest": 14.92,
+    "Twitter": 9.74,
+    "YouTube": 7.74,
+    "Instagram": 3.15
+  },
+  {
+    "Continent": "ประเทศไทย",
+    "Facebook": 58.76,
+    "Pinterest": 3.14,
+    "Twitter": 21.14,
+    "YouTube": 15.12,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Deutschland",
+    "Facebook": 63.32,
+    "Pinterest": 23.54,
+    "Twitter": 3.44,
+    "YouTube": 5.64,
+    "Instagram": 1.15
+  },
+  {
+    "Continent": "Italia",
+    "Facebook": 80.77,
+    "Pinterest": 10.33,
+    "Twitter": 2.87,
+    "YouTube": 2.97,
+    "Instagram": 1.83
+  },
+  {
+    "Continent": "France",
+    "Facebook": 64.86,
+    "Pinterest": 22.8,
+    "Twitter": 4.69,
+    "YouTube": 4.37,
+    "Instagram": 1.63
+  },
+  {
+    "Continent": "مصر",
+    "Facebook": 63.74,
+    "Pinterest": 1.66,
+    "Twitter": 1.66,
+    "YouTube": 32.4,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Polska",
+    "Facebook": 83.86,
+    "Pinterest": 7.98,
+    "Twitter": 3.79,
+    "YouTube": 2.84,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Turkey",
+    "Facebook": 56.37,
+    "Pinterest": 18.23,
+    "Twitter": 9.5,
+    "YouTube": 10.99,
+    "Instagram": 4
+  },
+  {
+    "Continent": "Magyarország",
+    "Facebook": 91.83,
+    "Pinterest": 5.78,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "България",
+    "Facebook": 96.25,
+    "Pinterest": 2,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Greece",
+    "Facebook": 90.48,
+    "Pinterest": 5.96,
+    "Twitter": 1.05,
+    "YouTube": 1.12,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Malaysia",
+    "Facebook": 80.2,
+    "Pinterest": 6,
+    "Twitter": 6.63,
+    "YouTube": 3.32,
+    "Instagram": 3.16
+  },
+  {
+    "Continent": "Indonesia",
+    "Facebook": 50.87,
+    "Pinterest": 8.39,
+    "Twitter": 8.06,
+    "YouTube": 27.03,
+    "Instagram": 5.26
+  },
+  {
+    "Continent": "Ireland",
+    "Facebook": 89.64,
+    "Pinterest": 4.21,
+    "Twitter": 3.33,
+    "YouTube": 1.08,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Sverige",
+    "Facebook": 84.65,
+    "Pinterest": 7.05,
+    "Twitter": 2.7,
+    "YouTube": 1.86,
+    "Instagram": 2.46
+  },
+  {
+    "Continent": "Nederland",
+    "Facebook": 62.21,
+    "Pinterest": 24.29,
+    "Twitter": 7.15,
+    "YouTube": 2.43,
+    "Instagram": 2.12
+  },
+  {
+    "Continent": "Australia",
+    "Facebook": 64.83,
+    "Pinterest": 20.77,
+    "Twitter": 6.53,
+    "YouTube": 2.96,
+    "Instagram": 1.34
+  },
+  {
+    "Continent": "Jordan",
+    "Facebook": 86.47,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 11.5,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Paraguay",
+    "Facebook": 92.83,
+    "Pinterest": 1.4,
+    "Twitter": 1.16,
+    "YouTube": 4.31,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Portugal",
+    "Facebook": 86.33,
+    "Pinterest": 5.75,
+    "Twitter": 1.72,
+    "YouTube": 1.61,
+    "Instagram": 3.59
+  },
+  {
+    "Continent": "United Arab Emirates",
+    "Facebook": 85.04,
+    "Pinterest": 4.85,
+    "Twitter": 3.97,
+    "YouTube": 4.52,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Colombia",
+    "Facebook": 58.88,
+    "Pinterest": 15.55,
+    "Twitter": 2.2,
+    "YouTube": 20.56,
+    "Instagram": 2.46
+  },
+  {
+    "Continent": "Iraq",
+    "Facebook": 13.41,
+    "Pinterest": 0,
+    "Twitter": 1.82,
+    "YouTube": 82.79,
+    "Instagram": 1.01
+  },
+  {
+    "Continent": "Serbia",
+    "Facebook": 89.97,
+    "Pinterest": 3.27,
+    "Twitter": 3.84,
+    "YouTube": 1.49,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Burma (Myanmar)",
+    "Facebook": 97.77,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Chile",
+    "Facebook": 69.75,
+    "Pinterest": 10.57,
+    "Twitter": 2.43,
+    "YouTube": 11.86,
+    "Instagram": 4.62
+  },
+  {
+    "Continent": "Perú",
+    "Facebook": 69.35,
+    "Pinterest": 8.34,
+    "Twitter": 1.51,
+    "YouTube": 19.45,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Singapore",
+    "Facebook": 76.44,
+    "Pinterest": 8.66,
+    "Twitter": 5.29,
+    "YouTube": 4.95,
+    "Instagram": 2.26
+  },
+  {
+    "Continent": "Sénégal",
+    "Facebook": 95.12,
+    "Pinterest": 1.42,
+    "Twitter": 2.36,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Nepal",
+    "Facebook": 94.2,
+    "Pinterest": 1.1,
+    "Twitter": 1.29,
+    "YouTube": 2.76,
+    "Instagram": 0
+  },
+  {
+    "Continent": "الجزائر",
+    "Facebook": 59.17,
+    "Pinterest": 3.4,
+    "Twitter": 1.96,
+    "YouTube": 34.68,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Dominican Republic",
+    "Facebook": 82.11,
+    "Pinterest": 4.48,
+    "Twitter": 0,
+    "YouTube": 11.7,
+    "Instagram": 0
+  },
+  {
+    "Continent": "South Korea",
+    "Facebook": 30.22,
+    "Pinterest": 7.53,
+    "Twitter": 55.12,
+    "YouTube": 5.26,
+    "Instagram": 1.06
+  },
+  {
+    "Continent": "Taiwan",
+    "Facebook": 81.75,
+    "Pinterest": 7.57,
+    "Twitter": 5.05,
+    "YouTube": 3.39,
+    "Instagram": 1.6
+  },
+  {
+    "Continent": "Việt Nam",
+    "Facebook": 72.28,
+    "Pinterest": 10.81,
+    "Twitter": 5.61,
+    "YouTube": 9.69,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Österreich",
+    "Facebook": 76.29,
+    "Pinterest": 16.1,
+    "Twitter": 2.21,
+    "YouTube": 3.06,
+    "Instagram": 0
+  },
+  {
+    "Continent": "België",
+    "Facebook": 61.13,
+    "Pinterest": 28.64,
+    "Twitter": 4.23,
+    "YouTube": 2.82,
+    "Instagram": 1.48
+  },
+  {
+    "Continent": "Israel",
+    "Facebook": 75.85,
+    "Pinterest": 10.95,
+    "Twitter": 2.51,
+    "YouTube": 8.16,
+    "Instagram": 1.29
+  },
+  {
+    "Continent": "تونس",
+    "Facebook": 80.88,
+    "Pinterest": 2.13,
+    "Twitter": 1.25,
+    "YouTube": 15.2,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Croatia",
+    "Facebook": 88.97,
+    "Pinterest": 6.48,
+    "Twitter": 1.72,
+    "YouTube": 1.32,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Bangladesh",
+    "Facebook": 84.83,
+    "Pinterest": 2.65,
+    "Twitter": 1.17,
+    "YouTube": 10.19,
+    "Instagram": 0
+  },
+  {
+    "Continent": "المغرب",
+    "Facebook": 41.03,
+    "Pinterest": 5.22,
+    "Twitter": 2.23,
+    "YouTube": 49.05,
+    "Instagram": 2.11
+  },
+  {
+    "Continent": "Kuwait",
+    "Facebook": 79.53,
+    "Pinterest": 3.36,
+    "Twitter": 6.52,
+    "YouTube": 8.29,
+    "Instagram": 1.59
+  },
+  {
+    "Continent": "Venezuela",
+    "Facebook": 72.2,
+    "Pinterest": 7.98,
+    "Twitter": 6.23,
+    "YouTube": 12.51,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Danmark",
+    "Facebook": 74.91,
+    "Pinterest": 13.98,
+    "Twitter": 2.66,
+    "YouTube": 3.46,
+    "Instagram": 2.58
+  },
+  {
+    "Continent": "Macedonia",
+    "Facebook": 94.6,
+    "Pinterest": 2.15,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 1.16
+  },
+  {
+    "Continent": "Estado Plurinacional de Bolivia",
+    "Facebook": 67.49,
+    "Pinterest": 6.08,
+    "Twitter": 0,
+    "YouTube": 24.61,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Schweiz",
+    "Facebook": 63.32,
+    "Pinterest": 24.32,
+    "Twitter": 5.29,
+    "YouTube": 3.27,
+    "Instagram": 0
+  },
+  {
+    "Continent": "South Africa",
+    "Facebook": 41.44,
+    "Pinterest": 42.86,
+    "Twitter": 9.44,
+    "YouTube": 3.05,
+    "Instagram": 1.94
+  },
+  {
+    "Continent": "Slovenija",
+    "Facebook": 88.03,
+    "Pinterest": 7.28,
+    "Twitter": 1.69,
+    "YouTube": 0,
+    "Instagram": 1.22
+  },
+  {
+    "Continent": "New Zealand",
+    "Facebook": 65.66,
+    "Pinterest": 17.18,
+    "Twitter": 10.31,
+    "YouTube": 2.67,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Qatar",
+    "Facebook": 84.82,
+    "Pinterest": 4.86,
+    "Twitter": 3.68,
+    "YouTube": 5.01,
+    "Instagram": 1.03
+  },
+  {
+    "Continent": "اليمن",
+    "Facebook": 86.41,
+    "Pinterest": 0,
+    "Twitter": 1.83,
+    "YouTube": 11.14,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Ecuador",
+    "Facebook": 49.82,
+    "Pinterest": 13.06,
+    "Twitter": 2.53,
+    "YouTube": 33.15,
+    "Instagram": 1.14
+  },
+  {
+    "Continent": "Norge",
+    "Facebook": 67.59,
+    "Pinterest": 20.79,
+    "Twitter": 4.05,
+    "YouTube": 2.6,
+    "Instagram": 2.24
+  },
+  {
+    "Continent": "Costa Rica",
+    "Facebook": 68.28,
+    "Pinterest": 17.71,
+    "Twitter": 1.81,
+    "YouTube": 10.43,
+    "Instagram": 1.33
+  },
+  {
+    "Continent": "Palestinian Territory",
+    "Facebook": 75.71,
+    "Pinterest": 1.17,
+    "Twitter": 1.43,
+    "YouTube": 21.04,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Sri Lanka",
+    "Facebook": 71.53,
+    "Pinterest": 5.24,
+    "Twitter": 6.88,
+    "YouTube": 15.07,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Slovakia (Slovak Republic)",
+    "Facebook": 77.47,
+    "Pinterest": 16.57,
+    "Twitter": 1.5,
+    "YouTube": 2.36,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Guatemala",
+    "Facebook": 60.57,
+    "Pinterest": 11.83,
+    "Twitter": 2.98,
+    "YouTube": 23.03,
+    "Instagram": 1.35
+  },
+  {
+    "Continent": "Cyprus",
+    "Facebook": 90.12,
+    "Pinterest": 5.67,
+    "Twitter": 1.31,
+    "YouTube": 0,
+    "Instagram": 1.08
+  },
+  {
+    "Continent": "Uruguay",
+    "Facebook": 72.18,
+    "Pinterest": 10.83,
+    "Twitter": 2.41,
+    "YouTube": 10.31,
+    "Instagram": 3.65
+  },
+  {
+    "Continent": "Japan",
+    "Facebook": 28.23,
+    "Pinterest": 28.91,
+    "Twitter": 31.42,
+    "YouTube": 6.04,
+    "Instagram": 3.44
+  },
+  {
+    "Continent": "Україна",
+    "Facebook": 50.78,
+    "Pinterest": 28.49,
+    "Twitter": 3.18,
+    "YouTube": 9.09,
+    "Instagram": 3.81
+  },
+  {
+    "Continent": "El Salvador",
+    "Facebook": 63.6,
+    "Pinterest": 9.45,
+    "Twitter": 6.58,
+    "YouTube": 18.02,
+    "Instagram": 2.06
+  },
+  {
+    "Continent": "Montenegro",
+    "Facebook": 95.29,
+    "Pinterest": 2.04,
+    "Twitter": 1.14,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Hong Kong",
+    "Facebook": 58.81,
+    "Pinterest": 17.7,
+    "Twitter": 12.94,
+    "YouTube": 5.69,
+    "Instagram": 2.72
+  },
+  {
+    "Continent": "Malta",
+    "Facebook": 91.35,
+    "Pinterest": 6.01,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Россия",
+    "Facebook": 14.36,
+    "Pinterest": 24.51,
+    "Twitter": 6.59,
+    "YouTube": 18.4,
+    "Instagram": 4.81
+  },
+  {
+    "Continent": "Nigeria",
+    "Facebook": 56.89,
+    "Pinterest": 15.16,
+    "Twitter": 20.58,
+    "YouTube": 3.67,
+    "Instagram": 2.91
+  },
+  {
+    "Continent": "Puerto Rico",
+    "Facebook": 68.97,
+    "Pinterest": 22.87,
+    "Twitter": 3.49,
+    "YouTube": 3.07,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Aruba",
+    "Facebook": 96.63,
+    "Pinterest": 2.54,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Mauritius",
+    "Facebook": 86.87,
+    "Pinterest": 8.28,
+    "Twitter": 1.15,
+    "YouTube": 2.21,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Oman",
+    "Facebook": 56.19,
+    "Pinterest": 5.57,
+    "Twitter": 6.9,
+    "YouTube": 26.27,
+    "Instagram": 2.99
+  },
+  {
+    "Continent": "Česká Republika",
+    "Facebook": 47.9,
+    "Pinterest": 37.11,
+    "Twitter": 4.46,
+    "YouTube": 5.49,
+    "Instagram": 1.21
+  },
+  {
+    "Continent": "Côte d'Ivoire",
+    "Facebook": 88.32,
+    "Pinterest": 6.45,
+    "Twitter": 1.28,
+    "YouTube": 2.39,
+    "Instagram": 1.43
+  },
+  {
+    "Continent": "Bahrain",
+    "Facebook": 76.64,
+    "Pinterest": 6.65,
+    "Twitter": 4.1,
+    "YouTube": 10.14,
+    "Instagram": 1.89
+  },
+  {
+    "Continent": "Moldova",
+    "Facebook": 86.35,
+    "Pinterest": 7.38,
+    "Twitter": 1.03,
+    "YouTube": 3,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Lebanon",
+    "Facebook": 41.63,
+    "Pinterest": 8.12,
+    "Twitter": 5.14,
+    "YouTube": 42.22,
+    "Instagram": 2.25
+  },
+  {
+    "Continent": "Lithuania",
+    "Facebook": 73.42,
+    "Pinterest": 16.38,
+    "Twitter": 2.4,
+    "YouTube": 3.75,
+    "Instagram": 1.48
+  },
+  {
+    "Continent": "Grenada",
+    "Facebook": 97.87,
+    "Pinterest": 1.43,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Finland",
+    "Facebook": 47.97,
+    "Pinterest": 29.55,
+    "Twitter": 7.61,
+    "YouTube": 5.21,
+    "Instagram": 2.94
+  },
+  {
+    "Continent": "ليبيا",
+    "Facebook": 42.47,
+    "Pinterest": 1.51,
+    "Twitter": 7.6,
+    "YouTube": 47.06,
+    "Instagram": 1.16
+  },
+  {
+    "Continent": "Panama",
+    "Facebook": 46.93,
+    "Pinterest": 21,
+    "Twitter": 4.12,
+    "YouTube": 22.23,
+    "Instagram": 4.91
+  },
+  {
+    "Continent": "Jamaica",
+    "Facebook": 70.64,
+    "Pinterest": 15.94,
+    "Twitter": 3.21,
+    "YouTube": 4.56,
+    "Instagram": 4.79
+  },
+  {
+    "Continent": "Syrian Arab Republic",
+    "Facebook": 49.3,
+    "Pinterest": 1.6,
+    "Twitter": 2.6,
+    "YouTube": 45.2,
+    "Instagram": 1.14
+  },
+  {
+    "Continent": "Bahamas",
+    "Facebook": 79.81,
+    "Pinterest": 11.51,
+    "Twitter": 5.82,
+    "YouTube": 1.13,
+    "Instagram": 1.17
+  },
+  {
+    "Continent": "Haiti",
+    "Facebook": 91.21,
+    "Pinterest": 3.97,
+    "Twitter": 1.88,
+    "YouTube": 1.91,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Honduras",
+    "Facebook": 50.22,
+    "Pinterest": 14.62,
+    "Twitter": 2.02,
+    "YouTube": 32.14,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Timor-Leste",
+    "Facebook": 99.52,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Nicaragua",
+    "Facebook": 62.18,
+    "Pinterest": 10.1,
+    "Twitter": 2.15,
+    "YouTube": 25.05,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Moçambique",
+    "Facebook": 88.51,
+    "Pinterest": 5.07,
+    "Twitter": 0,
+    "YouTube": 2.57,
+    "Instagram": 2.75
+  },
+  {
+    "Continent": "Cameroon",
+    "Facebook": 82.27,
+    "Pinterest": 10.27,
+    "Twitter": 2.58,
+    "YouTube": 3.46,
+    "Instagram": 1.25
+  },
+  {
+    "Continent": "Latvia",
+    "Facebook": 63.34,
+    "Pinterest": 16.91,
+    "Twitter": 11.58,
+    "YouTube": 3.09,
+    "Instagram": 2.27
+  },
+  {
+    "Continent": "Trinidad and Tobago",
+    "Facebook": 54.92,
+    "Pinterest": 34.75,
+    "Twitter": 2.67,
+    "YouTube": 4.6,
+    "Instagram": 1.59
+  },
+  {
+    "Continent": "Albania",
+    "Facebook": 65.54,
+    "Pinterest": 20.61,
+    "Twitter": 3.47,
+    "YouTube": 5.81,
+    "Instagram": 2.87
+  },
+  {
+    "Continent": "Ísland",
+    "Facebook": 81.63,
+    "Pinterest": 11.09,
+    "Twitter": 3.28,
+    "YouTube": 1.39,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Georgia",
+    "Facebook": 66.5,
+    "Pinterest": 19.22,
+    "Twitter": 2.31,
+    "YouTube": 7.14,
+    "Instagram": 1.87
+  },
+  {
+    "Continent": "Luxembourg",
+    "Facebook": 69.24,
+    "Pinterest": 20.54,
+    "Twitter": 4.31,
+    "YouTube": 2.97,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Kenya",
+    "Facebook": 37.12,
+    "Pinterest": 29.41,
+    "Twitter": 23.77,
+    "YouTube": 6.47,
+    "Instagram": 2.06
+  },
+  {
+    "Continent": "Cambodia",
+    "Facebook": 65.57,
+    "Pinterest": 8.9,
+    "Twitter": 4.29,
+    "YouTube": 18.12,
+    "Instagram": 2.1
+  },
+  {
+    "Continent": "Guinea",
+    "Facebook": 94.15,
+    "Pinterest": 3.54,
+    "Twitter": 1.17,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Reunion",
+    "Facebook": 69.88,
+    "Pinterest": 23.93,
+    "Twitter": 1.65,
+    "YouTube": 3.32,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Ghana",
+    "Facebook": 49.57,
+    "Pinterest": 21.04,
+    "Twitter": 19.15,
+    "YouTube": 8.17,
+    "Instagram": 1.28
+  },
+  {
+    "Continent": "Sudan",
+    "Facebook": 42.85,
+    "Pinterest": 1.47,
+    "Twitter": 20.82,
+    "YouTube": 34.09,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Rwanda",
+    "Facebook": 88.87,
+    "Pinterest": 3.83,
+    "Twitter": 5.07,
+    "YouTube": 1.52,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Mongolia",
+    "Facebook": 79.09,
+    "Pinterest": 13.19,
+    "Twitter": 2.56,
+    "YouTube": 3.86,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Mali",
+    "Facebook": 90.6,
+    "Pinterest": 4.42,
+    "Twitter": 1.64,
+    "YouTube": 1.68,
+    "Instagram": 1.54
+  },
+  {
+    "Continent": "Iran",
+    "Facebook": 11.28,
+    "Pinterest": 48.39,
+    "Twitter": 4.82,
+    "YouTube": 7.14,
+    "Instagram": 26.21
+  },
+  {
+    "Continent": "Burkina Faso",
+    "Facebook": 91.43,
+    "Pinterest": 5.52,
+    "Twitter": 1.3,
+    "YouTube": 1.34,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Cuba",
+    "Facebook": 73.6,
+    "Pinterest": 16.31,
+    "Twitter": 1.93,
+    "YouTube": 7.76,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Jersey",
+    "Facebook": 83.29,
+    "Pinterest": 9.99,
+    "Twitter": 5.08,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Estonia",
+    "Facebook": 55.62,
+    "Pinterest": 27.72,
+    "Twitter": 4.27,
+    "YouTube": 4.04,
+    "Instagram": 2.69
+  },
+  {
+    "Continent": "Armenia",
+    "Facebook": 73.97,
+    "Pinterest": 15.31,
+    "Twitter": 1.7,
+    "YouTube": 5.16,
+    "Instagram": 1.27
+  },
+  {
+    "Continent": "República Dominicana",
+    "Facebook": 82.57,
+    "Pinterest": 9.72,
+    "Twitter": 2.74,
+    "YouTube": 2.76,
+    "Instagram": 2.01
+  },
+  {
+    "Continent": "Bermuda",
+    "Facebook": 81.3,
+    "Pinterest": 13.7,
+    "Twitter": 2.79,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Faroe Islands",
+    "Facebook": 93.26,
+    "Pinterest": 5.79,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Maldives",
+    "Facebook": 77.84,
+    "Pinterest": 12.75,
+    "Twitter": 4.47,
+    "YouTube": 3.5,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Guadeloupe",
+    "Facebook": 70.53,
+    "Pinterest": 22.92,
+    "Twitter": 1.94,
+    "YouTube": 2.87,
+    "Instagram": 1.11
+  },
+  {
+    "Continent": "Беларусь",
+    "Facebook": 23.29,
+    "Pinterest": 36.55,
+    "Twitter": 3.97,
+    "YouTube": 12.36,
+    "Instagram": 3.7
+  },
+  {
+    "Continent": "République Démocratique du Congo",
+    "Facebook": 39.21,
+    "Pinterest": 2.73,
+    "Twitter": 16.83,
+    "YouTube": 38.33,
+    "Instagram": 0
+  },
+  {
+    "Continent": "中国",
+    "Facebook": 8.07,
+    "Pinterest": 41.44,
+    "Twitter": 26.15,
+    "YouTube": 4.9,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Martinique",
+    "Facebook": 68.96,
+    "Pinterest": 23.96,
+    "Twitter": 2.13,
+    "YouTube": 3.17,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Afghanistan",
+    "Facebook": 86.6,
+    "Pinterest": 4.16,
+    "Twitter": 4.72,
+    "YouTube": 3.89,
+    "Instagram": 0
+  },
+  {
+    "Continent": "موريتاني",
+    "Facebook": 76.82,
+    "Pinterest": 1.75,
+    "Twitter": 3.39,
+    "YouTube": 17.82,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Angola",
+    "Facebook": 74.8,
+    "Pinterest": 14.34,
+    "Twitter": 1.69,
+    "YouTube": 8.13,
+    "Instagram": 0
+  },
+  {
+    "Continent": "الصومال",
+    "Facebook": 77.37,
+    "Pinterest": 2.6,
+    "Twitter": 4.68,
+    "YouTube": 14.55,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Barbados",
+    "Facebook": 54.2,
+    "Pinterest": 29.47,
+    "Twitter": 3.4,
+    "YouTube": 4.64,
+    "Instagram": 7.26
+  },
+  {
+    "Continent": "Andorra",
+    "Facebook": 88.62,
+    "Pinterest": 5.56,
+    "Twitter": 3.1,
+    "YouTube": 1.41,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Fiji",
+    "Facebook": 81.12,
+    "Pinterest": 12.29,
+    "Twitter": 3.32,
+    "YouTube": 2.17,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Azerbaijan",
+    "Facebook": 39.27,
+    "Pinterest": 29.68,
+    "Twitter": 4.63,
+    "YouTube": 18.75,
+    "Instagram": 5.57
+  },
+  {
+    "Continent": "Belize",
+    "Facebook": 64.9,
+    "Pinterest": 23.51,
+    "Twitter": 2.14,
+    "YouTube": 7.19,
+    "Instagram": 1.32
+  },
+  {
+    "Continent": "",
+    "Facebook": 42.86,
+    "Pinterest": 28.57,
+    "Twitter": 2.38,
+    "YouTube": 2.38,
+    "Instagram": 1.44
+  },
+  {
+    "Continent": "Antigua and Barbuda",
+    "Facebook": 84.52,
+    "Pinterest": 11.52,
+    "Twitter": 1.86,
+    "YouTube": 1.26,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Қазақстан",
+    "Facebook": 11.2,
+    "Pinterest": 35.5,
+    "Twitter": 6.35,
+    "YouTube": 24.76,
+    "Instagram": 7.38
+  },
+  {
+    "Continent": "New Caledonia",
+    "Facebook": 83,
+    "Pinterest": 13.4,
+    "Twitter": 1.35,
+    "YouTube": 1.43,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Zambia",
+    "Facebook": 53.44,
+    "Pinterest": 27.29,
+    "Twitter": 11.88,
+    "YouTube": 5.87,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Brunei Darussalam",
+    "Facebook": 57.1,
+    "Pinterest": 16.77,
+    "Twitter": 12.37,
+    "YouTube": 6.68,
+    "Instagram": 4.43
+  },
+  {
+    "Continent": "Uganda",
+    "Facebook": 50.91,
+    "Pinterest": 24.36,
+    "Twitter": 16.77,
+    "YouTube": 6.49,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Tanzania",
+    "Facebook": 39.05,
+    "Pinterest": 23.38,
+    "Twitter": 21.36,
+    "YouTube": 11.82,
+    "Instagram": 3.78
+  },
+  {
+    "Continent": "Guam",
+    "Facebook": 57.12,
+    "Pinterest": 32.09,
+    "Twitter": 3.51,
+    "YouTube": 4.38,
+    "Instagram": 1.06
+  },
+  {
+    "Continent": "Guyana",
+    "Facebook": 70.78,
+    "Pinterest": 19.98,
+    "Twitter": 1.81,
+    "YouTube": 5.66,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Macao",
+    "Facebook": 72.9,
+    "Pinterest": 13.68,
+    "Twitter": 7.39,
+    "YouTube": 3.75,
+    "Instagram": 1.1
+  },
+  {
+    "Continent": "Cape Verde",
+    "Facebook": 88.13,
+    "Pinterest": 7.49,
+    "Twitter": 0,
+    "YouTube": 3.21,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Gabon",
+    "Facebook": 75.27,
+    "Pinterest": 15.1,
+    "Twitter": 1.66,
+    "YouTube": 7.31,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Ethiopia",
+    "Facebook": 53.99,
+    "Pinterest": 19.11,
+    "Twitter": 7.04,
+    "YouTube": 17.73,
+    "Instagram": 1.23
+  },
+  {
+    "Continent": "French Polynesia",
+    "Facebook": 77.07,
+    "Pinterest": 16.78,
+    "Twitter": 2.06,
+    "YouTube": 2.97,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Saint Lucia",
+    "Facebook": 70.76,
+    "Pinterest": 21.38,
+    "Twitter": 2.11,
+    "YouTube": 3.73,
+    "Instagram": 1.39
+  },
+  {
+    "Continent": "Namibia",
+    "Facebook": 40.69,
+    "Pinterest": 43.23,
+    "Twitter": 8.7,
+    "YouTube": 5.56,
+    "Instagram": 1.17
+  },
+  {
+    "Continent": "República de Chile",
+    "Facebook": 84.91,
+    "Pinterest": 8.95,
+    "Twitter": 2.2,
+    "YouTube": 3,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Bhutan",
+    "Facebook": 87.66,
+    "Pinterest": 6.16,
+    "Twitter": 2.06,
+    "YouTube": 3.04,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Isle of Man",
+    "Facebook": 65.16,
+    "Pinterest": 18.68,
+    "Twitter": 10.95,
+    "YouTube": 1.23,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Madagascar",
+    "Facebook": 56.68,
+    "Pinterest": 23.59,
+    "Twitter": 5.23,
+    "YouTube": 13.7,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Gambia",
+    "Facebook": 84.32,
+    "Pinterest": 6.83,
+    "Twitter": 4.1,
+    "YouTube": 3.79,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Suriname",
+    "Facebook": 58.42,
+    "Pinterest": 28.69,
+    "Twitter": 2.04,
+    "YouTube": 8.18,
+    "Instagram": 1.66
+  },
+  {
+    "Continent": "O'zbekiston",
+    "Facebook": 18.07,
+    "Pinterest": 48.47,
+    "Twitter": 4.57,
+    "YouTube": 22.67,
+    "Instagram": 2.77
+  },
+  {
+    "Continent": "Zimbabwe",
+    "Facebook": 33.13,
+    "Pinterest": 40.19,
+    "Twitter": 16.81,
+    "YouTube": 7.52,
+    "Instagram": 1.22
+  },
+  {
+    "Continent": "Bénin",
+    "Facebook": 68.59,
+    "Pinterest": 17.5,
+    "Twitter": 5.51,
+    "YouTube": 7.14,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Botswana",
+    "Facebook": 45.81,
+    "Pinterest": 30.19,
+    "Twitter": 14.03,
+    "YouTube": 7.49,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Cayman Islands",
+    "Facebook": 57.77,
+    "Pinterest": 28.34,
+    "Twitter": 7.42,
+    "YouTube": 2.12,
+    "Instagram": 2.8
+  },
+  {
+    "Continent": "Togo",
+    "Facebook": 61.84,
+    "Pinterest": 22.64,
+    "Twitter": 4.54,
+    "YouTube": 9.87,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Anguilla",
+    "Facebook": 79.33,
+    "Pinterest": 14.45,
+    "Twitter": 1.9,
+    "YouTube": 2.51,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Papua New Guinea",
+    "Facebook": 71.49,
+    "Pinterest": 15.97,
+    "Twitter": 5.81,
+    "YouTube": 4.23,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Niger",
+    "Facebook": 80.87,
+    "Pinterest": 11.08,
+    "Twitter": 4.08,
+    "YouTube": 3.44,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Kyrgyzstan",
+    "Facebook": 36.67,
+    "Pinterest": 31.85,
+    "Twitter": 5.4,
+    "YouTube": 13.66,
+    "Instagram": 9.27
+  },
+  {
+    "Continent": "Tchad",
+    "Facebook": 86.67,
+    "Pinterest": 5.89,
+    "Twitter": 3.98,
+    "YouTube": 3.28,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Djibouti",
+    "Facebook": 84.35,
+    "Pinterest": 5.08,
+    "Twitter": 2.86,
+    "YouTube": 7.33,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Liberia",
+    "Facebook": 77.75,
+    "Pinterest": 14.07,
+    "Twitter": 4.05,
+    "YouTube": 3.29,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Guernsey",
+    "Facebook": 60.31,
+    "Pinterest": 20.79,
+    "Twitter": 14.76,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "British Virgin Islands",
+    "Facebook": 82.25,
+    "Pinterest": 10.84,
+    "Twitter": 3.97,
+    "YouTube": 1.17,
+    "Instagram": 1.24
+  },
+  {
+    "Continent": "Sierra Leone",
+    "Facebook": 69.76,
+    "Pinterest": 14.4,
+    "Twitter": 6.81,
+    "YouTube": 7.97,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Guyane-France",
+    "Facebook": 51.4,
+    "Pinterest": 35.67,
+    "Twitter": 3.9,
+    "YouTube": 7.01,
+    "Instagram": 1.01
+  },
+  {
+    "Continent": "Malawi",
+    "Facebook": 51.24,
+    "Pinterest": 28.27,
+    "Twitter": 13.74,
+    "YouTube": 5.03,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Gibraltar",
+    "Facebook": 65.1,
+    "Pinterest": 20.25,
+    "Twitter": 10.41,
+    "YouTube": 2.18,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Saint Vincent and the Grenadines",
+    "Facebook": 62.13,
+    "Pinterest": 25.61,
+    "Twitter": 3.23,
+    "YouTube": 5.79,
+    "Instagram": 2.22
+  },
+  {
+    "Continent": "Seychelles",
+    "Facebook": 71.24,
+    "Pinterest": 22.35,
+    "Twitter": 3.04,
+    "YouTube": 2.24,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Burundi",
+    "Facebook": 78.76,
+    "Pinterest": 11.11,
+    "Twitter": 5.01,
+    "YouTube": 4.75,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Turks and Caicos Islands",
+    "Facebook": 66.46,
+    "Pinterest": 20.74,
+    "Twitter": 5.99,
+    "YouTube": 2.57,
+    "Instagram": 3.32
+  },
+  {
+    "Continent": "Swaziland",
+    "Facebook": 45.95,
+    "Pinterest": 37.53,
+    "Twitter": 9.83,
+    "YouTube": 4.64,
+    "Instagram": 1.26
+  },
+  {
+    "Continent": "Guinea-Bissau",
+    "Facebook": 91.34,
+    "Pinterest": 3.44,
+    "Twitter": 1.62,
+    "YouTube": 2.98,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Northern Mariana Islands",
+    "Facebook": 69.6,
+    "Pinterest": 16.21,
+    "Twitter": 5.04,
+    "YouTube": 5.98,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Central African Republic",
+    "Facebook": 87.89,
+    "Pinterest": 8.91,
+    "Twitter": 1.66,
+    "YouTube": 1.42,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Saint Kitts and Nevis",
+    "Facebook": 54.66,
+    "Pinterest": 31.85,
+    "Twitter": 5.39,
+    "YouTube": 4.06,
+    "Instagram": 2.83
+  },
+  {
+    "Continent": "Dominica",
+    "Facebook": 56,
+    "Pinterest": 31.03,
+    "Twitter": 2.97,
+    "YouTube": 5.32,
+    "Instagram": 2.72
+  },
+  {
+    "Continent": "Lesotho",
+    "Facebook": 42.24,
+    "Pinterest": 29.1,
+    "Twitter": 25.2,
+    "YouTube": 2.34,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Monaco",
+    "Facebook": 53.89,
+    "Pinterest": 17.4,
+    "Twitter": 21.16,
+    "YouTube": 1.86,
+    "Instagram": 2.57
+  },
+  {
+    "Continent": "Mayotte",
+    "Facebook": 62.48,
+    "Pinterest": 18.54,
+    "Twitter": 3.57,
+    "YouTube": 13.91,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Samoa",
+    "Facebook": 73.68,
+    "Pinterest": 17.03,
+    "Twitter": 6.14,
+    "YouTube": 2.24,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Palau",
+    "Facebook": 76.9,
+    "Pinterest": 12.63,
+    "Twitter": 4.03,
+    "YouTube": 4.7,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Solomon Islands",
+    "Facebook": 73.17,
+    "Pinterest": 19.19,
+    "Twitter": 4.17,
+    "YouTube": 2.7,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Equatorial Guinea",
+    "Facebook": 65.35,
+    "Pinterest": 16.9,
+    "Twitter": 2.3,
+    "YouTube": 14.35,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Liechtenstein",
+    "Facebook": 54.11,
+    "Pinterest": 32.39,
+    "Twitter": 3.22,
+    "YouTube": 4.74,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Tonga",
+    "Facebook": 80.3,
+    "Pinterest": 14.3,
+    "Twitter": 1.22,
+    "YouTube": 2.05,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Greenland",
+    "Facebook": 58.63,
+    "Pinterest": 31.09,
+    "Twitter": 3.37,
+    "YouTube": 3.6,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Vanuatu",
+    "Facebook": 71.42,
+    "Pinterest": 19.39,
+    "Twitter": 2.57,
+    "YouTube": 5.27,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Comoros",
+    "Facebook": 90.38,
+    "Pinterest": 4.81,
+    "Twitter": 1.25,
+    "YouTube": 3.08,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Tajikistan",
+    "Facebook": 43.95,
+    "Pinterest": 24.81,
+    "Twitter": 5.22,
+    "YouTube": 14.67,
+    "Instagram": 6.53
+  },
+  {
+    "Continent": "American Samoa",
+    "Facebook": 67.72,
+    "Pinterest": 19.68,
+    "Twitter": 5.5,
+    "YouTube": 4.59,
+    "Instagram": 0
+  },
+  {
+    "Continent": "San Marino",
+    "Facebook": 62.89,
+    "Pinterest": 21.73,
+    "Twitter": 4.6,
+    "YouTube": 4.04,
+    "Instagram": 2.85
+  },
+  {
+    "Continent": "Saint Pierre and Miquelon",
+    "Facebook": 71.24,
+    "Pinterest": 24.98,
+    "Twitter": 1.26,
+    "YouTube": 1.44,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Sao Tome and Principe",
+    "Facebook": 78.42,
+    "Pinterest": 7.59,
+    "Twitter": 0,
+    "YouTube": 6.09,
+    "Instagram": 6.99
+  },
+  {
+    "Continent": "Micronesia",
+    "Facebook": 68.46,
+    "Pinterest": 16.86,
+    "Twitter": 8.26,
+    "YouTube": 5.05,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Kiribati",
+    "Facebook": 91.18,
+    "Pinterest": 6.38,
+    "Twitter": 0,
+    "YouTube": 1.69,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Cook Islands",
+    "Facebook": 68.68,
+    "Pinterest": 27.16,
+    "Twitter": 1.15,
+    "YouTube": 1.44,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Marshall Islands",
+    "Facebook": 73.86,
+    "Pinterest": 16.69,
+    "Twitter": 4.09,
+    "YouTube": 4.88,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Saint Martin",
+    "Facebook": 61.26,
+    "Pinterest": 24.02,
+    "Twitter": 5.71,
+    "YouTube": 7.66,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Nauru",
+    "Facebook": 86.11,
+    "Pinterest": 11.11,
+    "Twitter": 2.53,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Falkland Islands",
+    "Facebook": 67.37,
+    "Pinterest": 19.48,
+    "Twitter": 8.45,
+    "YouTube": 3.52,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Wallis and Futuna",
+    "Facebook": 86.51,
+    "Pinterest": 6.98,
+    "Twitter": 1.4,
+    "YouTube": 4.19,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Tuvalu",
+    "Facebook": 91.11,
+    "Pinterest": 4.44,
+    "Twitter": 0,
+    "YouTube": 3.7,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Holy See (Vatican City State)",
+    "Facebook": 60.83,
+    "Pinterest": 9.17,
+    "Twitter": 25,
+    "YouTube": 5,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Norfolk Island",
+    "Facebook": 67.92,
+    "Pinterest": 16.98,
+    "Twitter": 13.21,
+    "YouTube": 0,
+    "Instagram": 1.89
+  },
+  {
+    "Continent": "Montserrat",
+    "Facebook": 58,
+    "Pinterest": 22,
+    "Twitter": 4,
+    "YouTube": 10,
+    "Instagram": 4
+  },
+  {
+    "Continent": "Tokelau",
+    "Facebook": 95.45,
+    "Pinterest": 4.55,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Turkmenistan",
+    "Facebook": 0,
+    "Pinterest": 28.21,
+    "Twitter": 10.26,
+    "YouTube": 51.28,
+    "Instagram": 2.56
+  },
+  {
+    "Continent": "Western Sahara",
+    "Facebook": 64.29,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 35.71,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Democratic People's Republic of Korea",
+    "Facebook": 75,
+    "Pinterest": 0,
+    "Twitter": 25,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Eritrea",
+    "Facebook": 21.05,
+    "Pinterest": 73.68,
+    "Twitter": 5.26,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Niue",
+    "Facebook": 75,
+    "Pinterest": 25,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Svalbard & Jan Mayen Islands",
+    "Facebook": 100,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Saint Helena",
+    "Facebook": 0,
+    "Pinterest": 0,
+    "Twitter": 66.67,
+    "YouTube": 33.33,
+    "Instagram": 0
+  },
+  {
+    "Continent": "Saint Barthelemy",
+    "Facebook": 100,
+    "Pinterest": 0,
+    "Twitter": 0,
+    "YouTube": 0,
+    "Instagram": 0
+  }
+]

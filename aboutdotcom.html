@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dotcom</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="topheading">
+		<label for="toggle">&#9776;</label>
+		<input type="checkbox" id="toggle"/>
+		<div class="sidenav">
+			<center><img src="png/logo6.png" id="logo"/></center>
+			<a href="index.html">WORLD</a>
+			<a href="dotcomin.html" >INDIA</a>
+			<a href="aboutdotcom.html" class="active">ABOUT</a>
+		</div>	
+	</div>
+	<div class="container">
+		<div class="world">
+			<h3>WORLD</h3>
+			<ul>
+				<li>Here Map is used to get World Map.
+					<ul>
+						<li>X and Y coordinate is converted into latitude and longitude.</li>
+						<li>Using reverseGeocode, we get Country name depending on latitude and longitude.</li>
+						<li>Depending on the Country selected, we get Social Media Statistics of that Country.</li>
+					</ul>
+				</li>
+				<li>On select of a paticular year or month get Social Media Statistic of World.
+					<ul>
+						<li>Percentage of top5 Social Media Applications are displayed in table.</li>
+						<li>Doughnut Chart displays the Graphical view of data.</li>
+					</ul>
+				</li>
+				<li>Line Chart of last 10years is displayed showing the increase and decrease in use of top5 Social Media Applications.</li>
+			</ul>
+		</div>
+		<div class="india">
+			<h3>INDIA</h3>
+			<ul>
+				<li>On select of a paticular year or month get Social Media Statistic of India.
+					<ul>
+						<li>Percentage of top5 Social Media Applications are displayed in table.</li>
+						<li>Doughnut Chart displays the Graphical view of data.</li>
+					</ul>
+				</li>
+				<li>Line Chart of last 10years is displayed showing the increase and decrease in use of top5 Social Media Applications.</li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>

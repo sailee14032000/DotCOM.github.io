@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dotcom</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+	<link rel="stylesheet" type="text/css" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+	<script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-core.js"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-service.js"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-ui.js"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div class="topheading">
+		<label for="toggle">&#9776;</label>
+		<input type="checkbox" id="toggle"/>
+		<div class="sidenav">
+			<center><img src="png/logo6.png" id="logo"/></center>
+			<a href="index.html">WORLD</a>
+			<a href="" class="active">INDIA</a>
+			<a href="aboutdotcom.html">ABOUT</a>
+		</div>	
+	</div>
+	<div class="container">
+		<div class="caption">Top 5 Social Sites and their impact (India)</div>
+		<div class="piechart">
+			<select id="ym" onchange="fun()">
+				<option selected hidden disabled>Select year month</option>
+			</select><br><br>
+			<table >
+				<tr>
+					<th><img src="png/png/fb.png" style="margin-right:10px;"></th>
+					<th><img src="png/png/ig.png" style="margin-right:10px;"></th>
+					<th><img src="png/png/pt.png" style="margin-right:10px;"></th>
+					<th><img src="png/png/yt.png" style="margin-right:10px;"></th>
+					<th><img src="png/png/tw.png" style="margin-right:10px;"></th>
+				</tr>
+				<tr id="tv"></tr>
+			</table><br>
+		<div id="chart-container_id" >
+			<div class="chart-container">
+		    	<canvas id="myChart"></canvas>
+            </div>
+            <div class="chart-container">
+		    	<canvas id="myChart1"></canvas>
+		    </div>	
+		    <div class="chart-container">	
+		    	<canvas id="myChart2"></canvas>
+		    </div>
+		    <div class="chart-container">
+		    	<canvas id="myChart3"></canvas>
+		    </div>
+		     <div class="chart-container">
+		    	<canvas id="myChart4"></canvas>
+			</div>
+		</div>
+	</div>
+	<div class="caption">Influence of social media sites over a decade (India)</div>
+		<div class="linechart">
+			<canvas id="myLine"></canvas>
+		</div>
+	</div>
+	<script type="text/javascript" src="calcin.js"></script>
+</body>
+</html>
