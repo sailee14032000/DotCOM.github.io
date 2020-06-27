@@ -259,7 +259,8 @@ body{
 
     	}
     	.caption{
-    		width: 80vw;
+    		width: 85vw;
+		font-size:14px;
     	}
     	#right_img img{
     		display:none;
@@ -278,7 +279,7 @@ body{
 			display: block;
 		}
 		.piechart,.linechart{
-			width: 80vw;
+			width: 85vw;
 			
 			margin-bottom: 20%;
 			padding:20px 10px;
@@ -290,7 +291,7 @@ body{
 			height: 350px;
 		}
 		.world , .india{
-			width: 80vw;
+			width: 85vw;
 		}
 		
     }	
