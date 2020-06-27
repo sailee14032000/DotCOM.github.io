@@ -263,6 +263,9 @@ body{
     		display:none;
 
     	}
+	     #right_img_notice{
+        display:block;
+        }
     	.caption{
     		width: 85vw;
 		font-size:14px;
